@@ -1,0 +1,259 @@
+Microsoft Windows [versão 10.0.22621.4751]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\Aluno>md projeto_inicial
+Já existe uma subpasta ou um arquivo projeto_inicial.
+
+C:\Users\Aluno>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é C02A-C3D5
+
+ Pasta de C:\Users\Aluno
+
+08/02/2025  10:38    <DIR>          .
+04/02/2025  08:08    <DIR>          ..
+07/02/2025  13:28    <DIR>          .android
+04/02/2025  10:25    <DIR>          .vscode
+04/02/2025  08:08    <DIR>          Contacts
+08/02/2025  09:43    <DIR>          Desktop
+04/02/2025  10:30    <DIR>          Documents
+07/02/2025  15:20    <DIR>          Downloads
+04/02/2025  08:08    <DIR>          Favorites
+04/02/2025  21:18       353.367.440 FullFWAWebInstaller_Faronics Default.exe
+04/02/2025  08:08    <DIR>          Links
+04/02/2025  08:08    <DIR>          Music
+07/02/2025  13:16    <DIR>          OneDrive
+04/02/2025  16:56    <DIR>          Pictures
+08/02/2025  10:41    <DIR>          projeto_inicial
+04/02/2025  08:08    <DIR>          Saved Games
+04/02/2025  20:58    <DIR>          Searches
+07/02/2025  13:10    <DIR>          Videos
+               1 arquivo(s)    353.367.440 bytes
+              17 pasta(s)   513.175.457.792 bytes disponíveis
+
+C:\Users\Aluno>cd projeto_inicial
+
+C:\Users\Aluno\projeto_inicial>md css
+
+C:\Users\Aluno\projeto_inicial>md js
+
+C:\Users\Aluno\projeto_inicial>md assets
+
+C:\Users\Aluno\projeto_inicial>cd html
+
+C:\Users\Aluno\projeto_inicial\html>echo Bem-vindo ao Projeto inicial > html.etx
+
+C:\Users\Aluno\projeto_inicial\html>type html.ext
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial\html>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é C02A-C3D5
+
+ Pasta de C:\Users\Aluno\projeto_inicial\html
+
+08/02/2025  10:54    <DIR>          .
+08/02/2025  10:50    <DIR>          ..
+08/02/2025  10:54                31 html.etx
+               1 arquivo(s)             31 bytes
+               2 pasta(s)   513.174.360.064 bytes disponíveis
+
+C:\Users\Aluno\projeto_inicial\html>cd css
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\html>cd js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\html>cd
+C:\Users\Aluno\projeto_inicial\html
+
+C:\Users\Aluno\projeto_inicial\html>md index.html
+
+C:\Users\Aluno\projeto_inicial\html>echo Bem-vindo ao Projeto inicial>index.html.ext
+
+C:\Users\Aluno\projeto_inicial\html>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é C02A-C3D5
+
+ Pasta de C:\Users\Aluno\projeto_inicial\html
+
+08/02/2025  11:00    <DIR>          .
+08/02/2025  10:50    <DIR>          ..
+08/02/2025  10:54                31 html.etx
+08/02/2025  10:58    <DIR>          index.html
+08/02/2025  11:00                30 index.html.ext
+               2 arquivo(s)             61 bytes
+               3 pasta(s)   513.173.909.504 bytes disponíveis
+
+C:\Users\Aluno\projeto_inicial\html>type index.html
+Acesso negado.
+
+C:\Users\Aluno\projeto_inicial\html>type index.html.ext
+Bem-vindo ao Projeto inicial
+
+C:\Users\Aluno\projeto_inicial\html>cd ..
+
+C:\Users\Aluno\projeto_inicial>cd html
+
+C:\Users\Aluno\projeto_inicial\html>cd ..\css
+
+C:\Users\Aluno\projeto_inicial\css>md style.css
+
+C:\Users\Aluno\projeto_inicial\css>echo body{ font-family:Arial,sans-serif;background-color:beige}.ext
+body{ font-family:Arial,sans-serif;background-color:beige}.ext
+
+C:\Users\Aluno\projeto_inicial\css>type style.css.ext
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial\css>echo body{ font-family:Arial,sans-serif;background-color:beige}>style.css.ext
+
+C:\Users\Aluno\projeto_inicial\css>type style.css.ext
+body{ font-family:Arial,sans-serif;background-color:beige}
+
+C:\Users\Aluno\projeto_inicial\css>cd ..\assets
+
+C:\Users\Aluno\projeto_inicial\assets>md img
+
+C:\Users\Aluno\projeto_inicial\assets>md fonts
+
+C:\Users\Aluno\projeto_inicial\assets>move style.css css
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial\assets>cd ..\css
+
+C:\Users\Aluno\projeto_inicial\css>move style.css css
+        1 dir(s) movido(s).
+
+C:\Users\Aluno\projeto_inicial\css>type css.etx
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial\css>cd ..
+
+C:\Users\Aluno\projeto_inicial>type css.ext
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial>cd ..\css
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>cd ..\css
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>cd ..\css
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>cd ..\css
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>cd .. \css
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>cd ..\ css
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>move style.css css
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial> move css assets
+        1 dir(s) movido(s).
+
+C:\Users\Aluno\projeto_inicial>cd ..\assets
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>cd.. \js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>cd ..\ js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>cd ..\js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial>dir
+ O volume na unidade C é Windows
+ O Número de Série do Volume é C02A-C3D5
+
+ Pasta de C:\Users\Aluno\projeto_inicial
+
+08/02/2025  11:26    <DIR>          .
+08/02/2025  10:38    <DIR>          ..
+08/02/2025  11:26    <DIR>          assets
+08/02/2025  11:00    <DIR>          html
+08/02/2025  10:50    <DIR>          js
+               0 arquivo(s)              0 bytes
+               5 pasta(s)   513.166.385.152 bytes disponíveis
+
+C:\Users\Aluno\projeto_inicial>cd  js
+
+C:\Users\Aluno\projeto_inicial\js>md script.js
+
+C:\Users\Aluno\projeto_inicial\js>md app.js
+
+C:\Users\Aluno\projeto_inicial\js>echo console.log("Script carregado")>script.js.ext
+
+C:\Users\Aluno\projeto_inicial\js>echo console.log("Aplicação Iniciada!")>app.js.ext
+
+C:\Users\Aluno\projeto_inicial\js>copy index.html html
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial\js>cd
+C:\Users\Aluno\projeto_inicial\js
+
+C:\Users\Aluno\projeto_inicial\js>cd .
+
+C:\Users\Aluno\projeto_inicial\js>cd ..\html
+
+C:\Users\Aluno\projeto_inicial\html>copy index.html html
+index.html\*
+O sistema não pode encontrar o arquivo especificado.
+        0 arquivo(s) copiado(s).
+
+C:\Users\Aluno\projeto_inicial\html>copy html assets
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial\html>cd ..\js
+
+C:\Users\Aluno\projeto_inicial\js>cd ..\assets
+
+C:\Users\Aluno\projeto_inicial\assets>copy html assets
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial\assets>rename app.js.ext main.js.ext
+O sistema não pode encontrar o arquivo especificado.
+
+C:\Users\Aluno\projeto_inicial\assets>cd ..\app.js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\assets>cd app.js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\assets>cd
+C:\Users\Aluno\projeto_inicial\assets
+
+C:\Users\Aluno\projeto_inicial\assets>cd
+C:\Users\Aluno\projeto_inicial\assets
+
+C:\Users\Aluno\projeto_inicial\assets>cd .
+
+C:\Users\Aluno\projeto_inicial\assets>cd assets
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\assets>del index.html
+Não foi possível encontrar C:\Users\Aluno\projeto_inicial\assets\index.html
+
+C:\Users\Aluno\projeto_inicial\assets>cd ..\app.js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\assets>cd app.js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\assets>cd ..\html
+
+C:\Users\Aluno\projeto_inicial\html>notepad index.html.ext
+
+C:\Users\Aluno\projeto_inicial\html>cd ..\app.js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\html>cd app.js
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\Aluno\projeto_inicial\html>

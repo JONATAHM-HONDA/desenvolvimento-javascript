@@ -1,0 +1,2 @@
+ter um programa que facilita o empréstimo dos livros, bibliotecário só preenche o nome de quem vai estar pegando, nome do livro e a data da devolução.
+ter um site da biblioteca para ver os livros disponíveis, e ter a opção deixar reservado

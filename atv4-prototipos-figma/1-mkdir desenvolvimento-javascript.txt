@@ -1,0 +1,17 @@
+1-mkdir desenvolvimento-javascript
+ 
+2-open folder
+
+3-git config --global user.name ; git config --global user.email
+
+4-echo "Aqui será meu repositório para o curso de JS" > README.md e echo "texto" > anotacoes.txt
+
+5 git add .:git commit -m "commit inicial do curso de JS" 
+
+6 git remote add origin URL ; git branch -m main ; git -u origin main 
+
+7 git add . ; git push origin main
+
+8 git clone https://github.com/jonathanhonda/desenvolvimento-javascript.git
+
+9 git add . ; git commit -m " atualização de anotações.txt" ; git push origin main
